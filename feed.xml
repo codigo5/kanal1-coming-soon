@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CBA Moto Peças - Em breve estaremos no ar - Código5 WEB</title>
-    <description></description>
-    <link>http://www.cuiabamotopeca.com.br/</link>
-    <atom:link href="http://www.cuiabamotopeca.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jan 2017 09:15:35 -0300</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2017 09:15:35 -0300</lastBuildDate>
+    <title>A KANAL1, é uma WebTV totalmente digital 24 horas no ar - Em breve estaremos no ar - Código5 WEB</title>
+    <description>A KANAL1, é a mais nova aposta do jornalista, Arthur Garcia, que depois de atuar como repórter na TELEVISÃO BRASIL OESTE CANAL 8 (TBO) e na TV MATO GROSSO CANAL 27, ele resolve migrar para a mídia digital devido a sua visão de mercado e estratégia profissional. Pensando na necessidade de inovação no mercado, nosso KANAL está em sintonia com a tendência mundial de trazer a televisão para a internet.
+A KANAL1, é uma WebTV totalmente digital 24 horas no ar, apresentando para a população conteúdos variados como: entrevistas, debates, notícias, coberturas jornalísticas, informações, publicidades e entretenimento através da Internet.
+E por ser um território onde a interatividade é constante, nossa proposta é trabalhar em parceria com os internautas, trocando informações, ouvindo opiniões e oferecendo um conteúdo exclusivo, produzido especialmente para você.
+Nossa equipe de profissionais estará sempre empenhada em conectar você às principais notícias de Mato Grosso, focando principalmente em Cuiabá e Várzea Grande. Acreditamos que a receita do sucesso para conseguir alcançar todos os resultados pretendidos é a parceria. Por isso, apostamos no trabalho em conjunto com entidades e também a busca constante do apoio de empresas privadas e setores públicos, que tornem viáveis as suas ações.
+
+
+Seja bem-vindo. A KANAL1, SUA TV NA WEB.
+
+Diretor, Arthur Garcia.   Reg. Profissional N° 0002247/MT</description>
+    <link>http://www.kanal1.com.br/</link>
+    <atom:link href="http://www.kanal1.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Mar 2017 11:09:19 -0400</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 11:09:19 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
   </channel>
